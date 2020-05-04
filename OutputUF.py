@@ -1,3 +1,11 @@
+"""
+Created on April 13 2020
+
+@author: ZM
+"""
+#########################
+## EXAMPLE: Making aan output friendly code
+#########################
 def text_maker(sen):
     Question_mark =("how", "when", "why")
     capitalized = sen.capitalize()

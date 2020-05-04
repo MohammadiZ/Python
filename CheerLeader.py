@@ -1,4 +1,11 @@
-#April 13 2020
+"""
+Created on April 13 2020
+
+@author: ZM
+"""
+#########################
+## EXAMPLE: Leading a word
+#########################
 a_lib = "aeioAEIO"
 word = input("I will cheer for you! Enter a word:" )
 times = int(input("Enthusiastics level. (1-10):" ))
